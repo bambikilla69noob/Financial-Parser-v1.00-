@@ -28,4 +28,4 @@ Copilot assisted with parts of the code, but the core logic and structure are my
 The program is written in C#, focusing on manual control over extracted data rather than relying entirely on libraries.
 
 This version serves as a foundation for future improvements, including handling OCR/OMR PDFs and building a full data pipeline for quantitative financial analysis.
-( Full disclosure this readme is a summarised version (Via a LLM) of my original idea) 
+
